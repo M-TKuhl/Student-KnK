@@ -1,0 +1,55 @@
+h2	{
+	color: #368F8B;
+	font-size: 40px;
+
+}
+h1 {
+	color: #368F8B;
+	font-size: 70px;
+	font-variant: roboto; 
+
+
+}
+p {
+	color: #368F8B;
+	font-size: 20px;
+}
+
+a {
+	color: #368F8B;
+	font-size: 20px;
+}
+
+#Header	{ 
+text-align: center;
+background-image: url('images/frontkitchen.jpeg');
+background-size: cover;
+padding: 300px;
+ }
+
+ .Punkte {
+ 	padding: 10px;
+ }
+
+.mid{
+	width: 300px;
+	border-radius: 10px;
+}
+
+#footer {
+	background-color: #368F8B;
+	padding: 35px;
+
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+
+}
+#footer a:hover {
+  color: white;
+
+}
+
+
